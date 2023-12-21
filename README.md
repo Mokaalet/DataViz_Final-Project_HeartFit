@@ -87,18 +87,18 @@ Box Plot: Heart Disease, BMI, and Sex
 Spearman Correlation Matrix
 
 # 8. Interactive Dashboards - Jupyter Widgets
-i) BMI and Heart Disease - This interactive dashboard creates a dropdown menu where the user can select different BMI categories, and the scatter plot will dynamically update based on the users BMI category selection. 
+BMI and Heart Disease - This interactive dashboard creates a dropdown menu where the user can select different BMI categories, and the scatter plot will dynamically update based on the users BMI category selection. 
 
-ii) Weight and Heart Disease - This interactive dashboard creates a slider where the user can select different weights, and the scatterplot will dynamically update based on the users selected weight.
+Weight and Heart Disease - This interactive dashboard creates a slider where the user can select different weights, and the scatterplot will dynamically update based on the users selected weight.
 
 # 9. Conclusion
 ## Statistical Tests:
-1. Chi-square Statistic
-2. Mann-Whitney U Statistic
+Chi-square Statistic
+Mann-Whitney U Statistic
 
 # 10. Recommendations
-1. Develop Gender-Tailored Interventions
-2. Explore other Gender-Related Factors
-3. Explore Additional Variables
+Develop Gender-Tailored Interventions
+Explore other Gender-Related Factors
+Explore Additional Variables
 
 
