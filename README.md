@@ -1,7 +1,7 @@
 # Data Visualization Final Project - HeartFit
-## A non-technical project exploring the relationship between BMI and Heart Disease
+## The relationship between BMI and Heart Disease
 
-This project explores the relationship between heart disease and BMI using data-driven insights which provide valuable information and acess to an interactive tool.
+This project explores the relationship between heart disease and BMI using data-driven insights which provide valuable information, as well as access to an interactive tool.
 
 # 1. Dataset Description
 <table>
