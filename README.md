@@ -64,23 +64,29 @@ This project explores the relationship between heart disease and BMI using data-
 
 # 2. Hypothesis
 H0: There is no statistical significant difference between BMI categories in experiencing Heart failure.
+
 Ha: There is a statistical significant difference between BMI categories in experiencing Heart failure.
 
 # 3. Exploring Categorical Features
 Gender, Chest Pain, Exercise Induced Angina
+
 Count Plot
      
 # 4. Exploring Numerical Features
 Age, MaxHR, BMI
+
 KDE Plot
+
 Box Plot
      
 # 5. Bivarate Visualizations
 Swarm Plot
+
 Scatter Plot
 
 # 6. Exploring Additional Variables
 Box Plot: Heart Disease, Age, and Sex
+
 Box Plot: Heart Disease, BMI, and Sex
 
 # 7. Correlation Analysis
@@ -94,11 +100,14 @@ Weight and Heart Disease - This interactive dashboard creates a slider where the
 # 9. Conclusion
 ## Statistical Tests:
 Chi-square Statistic
+
 Mann-Whitney U Statistic
 
 # 10. Recommendations
 Develop Gender-Tailored Interventions
+
 Explore other Gender-Related Factors
+
 Explore Additional Variables
 
 
