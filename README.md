@@ -61,6 +61,7 @@ This project explores the relationship between heart disease and BMI using data-
 </tr>
 </tbody>
 </table>
+
 # 2. Hypothesis
 # 3. Exploring Categorical Features
 # 4. Exploring Numerical Features
