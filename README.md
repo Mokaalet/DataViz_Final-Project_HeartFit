@@ -108,6 +108,6 @@ Develop Gender-Tailored Interventions
 
 Explore other Gender-Related Factors
 
-Explore Additional Variables
+Explore Additional Variables and Longitudinal Studies to observe changes in BMI and Heart Disease risk over time.
 
 
