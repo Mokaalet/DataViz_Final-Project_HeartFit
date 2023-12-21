@@ -3,7 +3,7 @@
 
 This project explores the relationship between heart disease and BMI using data-driven insights which provide valuable information and acess to an interactive tool.
 
-# Dataset Description
+# 1. Dataset Description
 <table>
 <thead><tr>
 <th>Attribute</th>
@@ -61,3 +61,14 @@ This project explores the relationship between heart disease and BMI using data-
 </tr>
 </tbody>
 </table>
+# 2. Hypothesis
+# 3. Exploring Categorical Features
+# 4. Exploring Numerical Features
+# 5. Bivarate Visualizations
+# 6. Exploring Additional Variables - Heart Disease, Age, and Sex
+# 7. Correlation Analysis
+# 8. Interactive Dashboards - Jupyter Widgets
+# 9. Conclusion
+# 10. Recommendation
+
+
